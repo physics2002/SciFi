@@ -1,0 +1,8 @@
+/home/sh/Desktop/SciFi/build/CMakeFiles/install/strip.dir
+/home/sh/Desktop/SciFi/build/CMakeFiles/install/local.dir
+/home/sh/Desktop/SciFi/build/CMakeFiles/install.dir
+/home/sh/Desktop/SciFi/build/CMakeFiles/list_install_components.dir
+/home/sh/Desktop/SciFi/build/CMakeFiles/rebuild_cache.dir
+/home/sh/Desktop/SciFi/build/CMakeFiles/edit_cache.dir
+/home/sh/Desktop/SciFi/build/CMakeFiles/ex2.dir
+/home/sh/Desktop/SciFi/build/CMakeFiles/scifi.dir
